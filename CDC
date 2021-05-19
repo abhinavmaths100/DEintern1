@@ -1,0 +1,1 @@
+A process to identify (capture) changes to records in a source system, interpret the change(s) accurately, and then replicate the change to a target system with an intent to either replicate the source system or to record the changes for historical analysis.
